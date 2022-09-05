@@ -26,5 +26,5 @@ class ActivitiesList extends React.Component {
     }
  }
      
- export default ParksList;
+ export default ActivitiesList;
    
