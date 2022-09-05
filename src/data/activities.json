@@ -1,0 +1,9 @@
+[
+  {"value": "Biking", "activity": "Biking"}, 
+  {"value": "Camping", "activity": "Camping"},
+  {"value": "Climbing", "activity": "Climbing"},
+  {"value": "Fishing", "activity": "Fishing"},
+  {"value": "Hiking", "activity": "Hiking"},
+  {"value": "Skiing", "activity": "Skiing"},
+  {"value": "Wildlife Watching", "activity": "Wildlife Watching"}
+]
